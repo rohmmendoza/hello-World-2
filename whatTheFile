@@ -1,0 +1,10 @@
+public class vovo
+{
+  public static void main (String []args)
+  {
+  
+  System.out.println("I've been here before a few times.);
+  System.out.println("And I'm quite aware we're dying");
+  
+  }
+}
